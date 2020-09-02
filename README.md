@@ -1,2 +1,0 @@
-# life
-Developing a website
